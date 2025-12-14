@@ -1,4 +1,4 @@
-<h1 align="center"> LentesSordos </h1> <br>
+<h1 align="center"> Gadget para personas con discapacidad auditiva </h1> <br>
 
 <p align="center">
   <img src="screenshots/ML.png" width="45%" alt="LentesSordos hardware"/>
