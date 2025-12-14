@@ -1,7 +1,8 @@
 <h1 align="center"> LentesSordos </h1> <br>
 
 <p align="center">
-  <img alt="LentesSordos" title="LentesSordos" src="https://raw.githubusercontent.com/alexisjhair14/alexisjhair14-project-1/main/assets/banner.png" width="450">
+  <img src="assets/foto1.png" width="45%" alt="LentesSordos hardware"/>
+  <img src="assets/foto2.png" width="45%" alt="Arquitectura del sistema"/>
 </p>
 
 <p align="center">
