@@ -1,8 +1,8 @@
 <h1 align="center"> LentesSordos </h1> <br>
 
 <p align="center">
-  <img src="assets/foto1.png" width="45%" alt="LentesSordos hardware"/>
-  <img src="assets/foto2.png" width="45%" alt="Arquitectura del sistema"/>
+  <img src="screenshots/ML.png" width="45%" alt="LentesSordos hardware"/>
+  <img src="screenshots/prototipo.png" width="45%" alt="Arquitectura del sistema"/>
 </p>
 
 <p align="center">
