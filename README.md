@@ -34,7 +34,7 @@
 
 ## Introduction
 
-**LentesSordos** es un proyecto de investigación y desarrollo que combina **Machine Learning embebido** y **hardware wearable**
+**Werable ayuda asistida para personas sin capacidad auditiva** es un proyecto de investigación y desarrollo que combina **Machine Learning embebido** y **hardware wearable**
 para detectar sonidos críticos del entorno urbano y notificar al usuario mediante:
 
 - Vibración izquierda / derecha / ambos lados
